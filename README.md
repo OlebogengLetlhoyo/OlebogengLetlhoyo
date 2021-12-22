@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OlebogengLetlhoyo
+- 👀 I’m interested in Data science and Software development
+- 🌱 I’m currently learning Python for data science(Pandas, Numpy, etc), SQL, and cloud computing
+- 💞️ I’m looking to collaborate on Data science projects
+- 📫 How to reach me is via email: Olebogengletlhoyo01@gmail.com
